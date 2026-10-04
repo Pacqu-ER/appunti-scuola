@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Appunti HTML, CSS e JavaScript – Posts</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Appunti HTML, CSS e JavaScript</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>it-it</language>
+    <lastBuildDate>Tue, 29 Sep 2026 18:16:31 +0200</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Primo Appunto</title>
+      <link>http://localhost:1313/posts/primo-appunto/</link>
+      <pubDate>Tue, 29 Sep 2026 18:16:31 +0200</pubDate>
+      
+      <guid>http://localhost:1313/posts/primo-appunto/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>

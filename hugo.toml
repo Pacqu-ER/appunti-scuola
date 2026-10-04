@@ -1,0 +1,25 @@
+baseURL = 'https://example.org/'
+languageCode = 'it-it'
+title = "Appunti HTML, CSS e JavaScript"
+theme = 'hextra'
+
+#hugo server -D per startare#
+# Attiva la ricerca integrata
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# Menu in alto (Header)
+[[menu.main]]
+  name = "Appunti"
+  pageRef = "/docs"
+  weight = 1
+
+[[menu.main]]
+  name = "Informazioni"
+  pageRef = "/about"
+  weight = 2
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
