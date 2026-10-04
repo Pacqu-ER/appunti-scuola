@@ -11,8 +11,8 @@ Seleziona una materia per iniziare a ripassare!
 {{< /hextra/hero-subtitle >}}
 
 {{< cards >}}
-{{< card link="/docs/css" title="CSS" subtitle="Stili, layout, colori e animazioni" >}}
-{{< card link="/docs/html" title="HTML" subtitle="Struttura e tag delle pagine web" >}}
-{{< card link="/docs/javascript" title="JavaScript" subtitle="Logica, funzioni e interattività" >}}
-{{< card link="/docs/teoria-varia" title="Teoria Varia" subtitle="Concetti generali, reti e approfondimenti" >}}
+{{< card link="/docs/css/" title="CSS" subtitle="Stili, layout, colori e animazioni" >}}
+{{< card link="/docs/html/" title="HTML" subtitle="Struttura e tag delle pagine web" >}}
+{{< card link="/docs/javascript/" title="JavaScript" subtitle="Logica, funzioni e interattività" >}}
+{{< card link="/docs/teoria-varia/" title="Teoria Varia" subtitle="Concetti generali, reti e approfondimenti" >}}
 {{< /cards >}}
