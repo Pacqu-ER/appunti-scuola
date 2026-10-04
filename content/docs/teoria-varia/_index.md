@@ -2,7 +2,7 @@
 
 date = '2026-10-04T17:27:54+02:00'
 
-draft = true
+draft = false
 
 title = 'Teoria Varia'
 
