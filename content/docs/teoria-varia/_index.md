@@ -27,7 +27,7 @@ La **multimedialità** consiste nell'utilizzare diversi tipi di contenuti per co
 Rappresenta quindi le informazioni attraverso diversi tipi di contenuti.
 I file multimediali, come immagini, audio e video, possono occupare molto spazio, quindi  vengono utilizzati degli **algoritmi di compressione**, che permettono di ridurre le dimensioni dei file e quindi occupare meno memoria. Un esempio è WhatsApp, che spesso comprime le fotografie quando vengono inviate, così occupano meno spazio e vengono trasferite più velocemente.
 
-##Siti Web##
+## Siti Web ##
 {{< cards >}}
 {{< card link="/appunti-scuola/docs/teoria-varia/sito-web/" title="Sito Web" subtitle="caratteristiche dei siti web" >}}
 {{< /cards >}}

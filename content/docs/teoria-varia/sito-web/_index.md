@@ -43,8 +43,13 @@ Prima di creare realmente la pagina è utile fare uno schizzo su carta, per capi
 
 ### Parti principali di un sito ###
 Una pagina web può essere divisa in diverse parti principali:
+
 1.***Header*** è la parte superiore della pagina, può contenere logo, nome del sito, menu di navigazione, informazioni principali, Brand (l'identità del sito o dell'organizzazione). Può essere rappresentato attraverso, logo, colori, font, stile grafico.
+
 2.***Banner*** (facoltativo) è una grande area visiva che può contenere immagini, testo o pubblicità. A volte il banner è realizzato come un carosello, cioè una sequenza di immagini che cambia o scorre automaticamente.
+
 3.***Contenuti*** informazioni principali della pagina, testi, immagini, video, documenti, altri elementi.
+
 4.***Footer*** è la parte finale della pagina, cioè il piè di pagina. Può contenere contatti, informazioni legali, copyright, link, social network
+
 La barra di navigazione non manca mai, dalla home derivano tutte le altre pagine.
