@@ -4,6 +4,9 @@ title = "Appunti HTML, CSS e JavaScript"
 theme = 'hextra'
 
 #hugo server -D per startare#
+#git add .#
+#git commit -m "prova1"#
+#git push#
 #https://github.com/Pacqu-ER/appunti-scuola per andare su github#
 # Attiva la ricerca integrata
 [outputs]

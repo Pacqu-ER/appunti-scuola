@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Appunti HTML, CSS e JavaScript – Docs</title>
-    <link>http://localhost:1313/docs/</link>
+    <link>http://localhost:1313/appunti-scuola/docs/</link>
     <description>Recent content in Docs on Appunti HTML, CSS e JavaScript</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it-it</language>
     <lastBuildDate>Sun, 04 Oct 2026 17:27:54 +0200</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/appunti-scuola/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
