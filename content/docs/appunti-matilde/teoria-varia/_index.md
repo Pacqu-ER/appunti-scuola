@@ -29,5 +29,5 @@ I file multimediali, come immagini, audio e video, possono occupare molto spazio
 
 ## Siti Web ##
 {{< cards >}}
-{{< card link="/appunti-scuola/docs/teoria-varia/sito-web/" title="Sito Web" subtitle="caratteristiche dei siti web" >}}
+{{< card link="/appunti-scuola/docs/appunti-matilde/teoria-varia/sito-web/" title="Sito Web" subtitle="caratteristiche dei siti web" >}}
 {{< /cards >}}
