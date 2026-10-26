@@ -4,7 +4,7 @@ date = '2026-10-04T17:27:54+02:00'
 
 draft = false
 
-title = 'Teoria Varia'
+title = 'Teoria Varia estesa'
 
 +++
 ## File System ##
@@ -29,5 +29,5 @@ I file multimediali, come immagini, audio e video, possono occupare molto spazio
 
 ## Siti Web ##
 {{< cards >}}
-{{< card link="/appunti-scuola/docs/appunti-matilde/teoria-varia/sito-web/" title="Sito Web" subtitle="caratteristiche dei siti web" >}}
+{{< card link="/appunti-scuola/docs/appunti-estesi/teoria-varia/sito-web/" title="Sito Web" subtitle="caratteristiche dei siti web" >}}
 {{< /cards >}}
