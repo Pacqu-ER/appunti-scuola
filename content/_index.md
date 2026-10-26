@@ -2,7 +2,6 @@
 title: Home
 layout: hextra-home
 ---
-{{< hextra/hero align="left" >}}
 
 {{< hextra/hero-headline >}}
 Appunti di Informatica
@@ -12,11 +11,9 @@ Appunti di Informatica
 Seleziona una materia per iniziare a ripassare!
 {{< /hextra/hero-subtitle >}}
 
-{{< cards num="4" >}}
-  {{< card link="/appunti-scuola/docs/appunti/" title="Appunti" subtitle="Appunti normali per ripassare" >}}
-  {{< card link="/appunti-scuola/docs/appunti-estesi/" title="Appunti Estesi" subtitle="Appunti più dettagliati per studiare" >}}
-  {{< card link="/appunti-scuola/docs/codici/" title="Codici" subtitle="Esempi e esercizi" >}}
-  {{< card link="/appunti-scuola/docs/second-brain/" title="Second Brain" subtitle="Mappa per navigare gli appunti" >}}
+{{< cards >}}
+{{< card link="/appunti-scuola/docs/appunti-estesi/" title="Appunti Estesi" subtitle="Appunti più dettagliati per studiare">}}
+{{< card link="/appunti-scuola/docs/appunti/" title="Appunti" subtitle="Appunti normali per ripassare ">}}
+{{< card link="/appunti-scuola/docs/codici/" title="Codici" subtitle="Esempi e esercizi" >}}
+{{< card link="/appunti-scuola/docs/second-brain/" title="Second Brain" subtitle="Mappa per navigare gli appunti" >}}
 {{< /cards >}}
-
-{{< /hextra/hero >}}
