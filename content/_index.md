@@ -10,9 +10,13 @@ Appunti di Informatica
 Seleziona una materia per iniziare a ripassare!
 {{< /hextra/hero-subtitle >}}
 
-{{< cards num="2" >}}
-  {{< card link="/appunti-scuola/docs/appunti/" title="Appunti" subtitle="Appunti normali per ripassare" >}}
-  {{< card link="/appunti-scuola/docs/appunti-estesi/" title="Appunti Estesi" subtitle="Appunti più dettagliati per studiare" >}}
-  {{< card link="/appunti-scuola/docs/codici/" title="Codici" subtitle="Esempi e esercizi" >}}
-  {{< card link="/appunti-scuola/docs/second-brain/" title="Second Brain" subtitle="Mappa per navigare gli appunti" >}}
-{{< /cards >}}
+  <div class="mt-10 text-left">
+    {{< cards num="2" >}}
+      {{< card link="/appunti-scuola/docs/appunti/" title="Appunti" subtitle="Appunti normali per ripassare" >}}
+      {{< card link="/appunti-scuola/docs/appunti-estesi/" title="Appunti Estesi" subtitle="Appunti più dettagliati per studiare" >}}
+      {{< card link="/appunti-scuola/docs/codici/" title="Codici" subtitle="Esempi e esercizi" >}}
+      {{< card link="/appunti-scuola/docs/second-brain/" title="Second Brain" subtitle="Mappa per navigare gli appunti" >}}
+    {{< /cards >}}
+  </div>
+
+</div>

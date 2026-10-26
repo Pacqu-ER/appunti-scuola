@@ -7,10 +7,6 @@ sidebar:
 toc: false
 ---
 
-{{< hextra/hero-headline class="text-center" >}}
-Appunti estesi
-{{< /hextra/hero-headline >}}
-
 {{< cards num="4" >}}
   {{< card link="/appunti-scuola/docs/appunti-estesi/teoria-varia/" title="TEORIA VARIA estesa" >}}
   {{< card link="/appunti-scuola/docs/appunti-estesi/html/" title="HTML esteso" >}}
